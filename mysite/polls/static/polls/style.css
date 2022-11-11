@@ -1,0 +1,8 @@
+li a {
+    color: rgb(16, 142, 48);
+}
+
+body {
+    background: rgb(25, 171, 162) url("images/background.gif") no-repeat;
+    background-size: cover;
+}
